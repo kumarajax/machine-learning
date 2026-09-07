@@ -9,7 +9,7 @@ Group: Group 142
 1. Go to the project folder.
 
 ```bash
-cd /Users/ajay/DATA/PERSONAL/BITS/SEMESTER_2/NLP/Assignments/nlp_assignment_set15
+cd /Users/......
 ```
 
 2. Create the Python virtual environment.
