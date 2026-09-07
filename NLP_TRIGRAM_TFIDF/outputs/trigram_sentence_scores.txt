@@ -1,0 +1,10 @@
+Trigram sentence comparison
+
+Sentence: Having the best day ever with amazing friends!
+Log probability: -106.049580
+
+Sentence: Feeling so frustrated with everything going wrong today.
+Log probability: -101.801843
+
+Recommended sentence: Feeling so frustrated with everything going wrong today.
+Reason: it has the higher trigram log probability under the training corpus.

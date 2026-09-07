@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+outputs/preprocessed_text.csv
+outputs/reddit_preprocessed_text.csv
+outputs/twitter_preprocessed_text.csv
+

@@ -1,0 +1,8 @@
+TF-IDF word similarity analysis
+
+Metric: cosine similarity
+Justification: cosine similarity compares direction rather than raw magnitude, making it suitable for sparse TF-IDF vectors.
+
+Top two similar word pairs:
+1. sabha - lok: 0.934615
+2. remonetise - demonetised: 0.909258
